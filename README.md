@@ -11,3 +11,7 @@ The naive factory pattern, or the direct creation pattern, is a class creation e
 ## 002 factory.py
 
 The factory pattern is a creation pattern. The factory pattern can create different objects in batches, but it is less efficient because there is no common method of reusing these objects.
+
+## 003 abstract factory easy.py
+
+Simple abstract factory that constructs classes by overriding methods.
