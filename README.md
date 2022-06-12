@@ -4,6 +4,14 @@ design pattern python
 
 Implement design patterns using python libraries and classes (instead of java)
 
+## 000 test class.py
+
+Test basic class programming and usage.
+
+## 000 test class full.py
+
+Test inheritance and reuse.
+
 ## 001 naive factory.py
 
 The naive factory pattern, or the direct creation pattern, is a class creation exercise with no extras. (This pattern can be said to be not a type of design pattern)
