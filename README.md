@@ -23,3 +23,7 @@ The factory pattern is a creation pattern. The factory pattern can create differ
 ## 003 abstract factory easy.py
 
 Simple abstract factory that constructs classes by overriding methods.
+
+## 004 abstract factory.py
+
+A real abstract factory, different products can have different configurations, for example, the production of cars can have SUVs, sedans and pickups, which is very convenient for reuse.
